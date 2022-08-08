@@ -4,9 +4,14 @@ I'm EA, an Android Engineer and a learning enthusiast. I am passionate about bui
 
 I recently finished working remotely as an android developer at FrontendLabs, a London-based firm that develops mobile applications for a variety of clients, I'm now looking to join a team where I can use my skills to work on solutions that will have an impact and can be applied to a range of industries as well as be exposed to challenges that'll help me grow as an engineer.
 
-## Interests
+## Specialties
 - Languages: Kotlin, Java, Dart
 - Tools: Git & GitHub, Android Studio, Firebase ...
+
+## Interests
+- Backend (kotlin and springboot)
+- Cloud engineering
+- Cyber security
 
 ## Add ons
 - 😄 Pronouns: she/her
