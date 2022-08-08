@@ -1,7 +1,7 @@
 # Hello World 👋
 *she/her*
 
-I'm EA 🙂, an Android Engineer and a learning enthusiast. I am passionate about building android applications that improve user experience and solve problems. I enjoy working in groups and currently, I spend most of my time working on projects and Improving my skills as an android engineer.
+I'm EA 🙂, an Android Engineer and a learning enthusiast. I am passionate about building android applications that improve user experience and solve problems. I enjoy working in teams and currently, I spend most of my time working on projects and Improving my skills as an android engineer.
 
 I recently finished working remotely as an android developer at FrontendLabs, a London-based firm that develops mobile applications for a variety of clients, I'm now looking to join a team where I can use my skills to work on solutions that will have an impact and can be applied to a range of industries as well as be exposed to challenges that'll help me grow as an engineer.
 
@@ -25,7 +25,7 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 - Google maps
 
 ## ⚡ Interests
-- Backend (kotlin and springboot)
+- Backend (Kotlin and Springboot)
 - Cloud engineering
 - Cyber security
 
@@ -34,8 +34,8 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 
 ## 💡 Status
 - 💻 Currently looking for a new Android Engineer role
-- 🛠️ Currently working on [Rapport - a workplace compliance application](https://github.com/Czeach/Rapport) with [Zee](https://github.com/zennymorh)
 - 📖 Currently learning Jetpack Compose
+- 🛠️ Currently working on [Rapport - a workplace compliance application](https://github.com/Czeach/Rapport) with [Zee](https://github.com/zennymorh)
 
 ## 📲 Get in touch
 - [Twitter](https://twitter.com/__Czech)
