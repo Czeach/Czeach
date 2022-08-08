@@ -10,6 +10,7 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 ## 📌 Skills
 - **Languages:** Kotlin, Java, Dart
 - **Tools:** Git & GitHub, Android Studio
+
 **Technologies used:**
 - MVVM & MVI architectures
 - Kotlin Coroutines
