@@ -34,7 +34,7 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 
 ## 💡 Status
 - 💻 Currently looking for a new Android Engineer role
-- 🔨 Currently working on [Rapport - a workplace compliance application](https://github.com/Czeach/Rapport) with [Zee](https://github.com/zennymorh)
+- 🛠️ Currently working on [Rapport - a workplace compliance application](https://github.com/Czeach/Rapport) with [Zee](https://github.com/zennymorh)
 - 📖 Currently learning Jetpack Compose
 
 ## 📲 Get in touch
