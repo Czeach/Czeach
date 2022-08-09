@@ -48,3 +48,4 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 - [LinkedIn](https://www.linkedin.com/in/ezichi-amarachi-628083198/)
 - [Medium](https://medium.com/@ezichukwuamarachi)
 - [I write technical articles](https://dev.to/czech)
+- [Resume](https://drive.google.com/file/d/1xaOBdnnAT1NwjyTV9fqfl2kVaENjU3mE/view?usp=sharing)
