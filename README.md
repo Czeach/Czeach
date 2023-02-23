@@ -37,10 +37,10 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 - **Fun fact:** I love taking photos of the outdoors. I find the beauty in nature to be fascinating, and I am particularly obsessed with sunsets.
 
 
-## 💡 Status
-- 💻 Currently looking for a new Android Engineer role
-- 📖 Currently learning Jetpack Compose
-- 🛠️ Currently working on [Chronos - a timezone converter application](https://github.com/Czeach/Chronos)
+## 💡 Current Status
+- 💻 Looking for my next Android Engineer role
+- 📖 Building android projects using Jetpack Compose
+- 🛠️ Working on [Chronos - a timezone converter application](https://github.com/Czeach/Chronos)
 
 
 ## 📲 Get in touch
