@@ -44,7 +44,7 @@ I recently finished working remotely as an android developer at FrontendLabs, a 
 
 
 ## 📲 Get in touch
-- [Resume](https://drive.google.com/file/d/1xaOBdnnAT1NwjyTV9fqfl2kVaENjU3mE/view?usp=sharing)
+- [Resume](https://docs.google.com/document/d/121VNE4JCxH_Gg5aB5AQS_fOABHs3UnuEXrTvx1GSvgw/edit?usp=sharing)
 - [Twitter](https://twitter.com/__Czech)
 - [LinkedIn](https://www.linkedin.com/in/ezichi-amarachi-628083198/)
 - [Medium](https://medium.com/@ezichukwuamarachi)
